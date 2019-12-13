@@ -12,9 +12,13 @@ Implemented the following:
 
 ## Homework 2
 
-Implemented programs for several greedy and dynamic programming algorithms.
+Implemented programs for:
+
+Greedy and dynamic programming algorithms.
+
+Subproblems:
 
 1) optimal intervals
 1) path through a grid
 
-### Please read the individual writeup.pdf in each folder for problem statements and expected solution.
+#### Please read the individual writeup.pdf in each folder for problem statements and expected solution.
